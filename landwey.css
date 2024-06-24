@@ -1,0 +1,105 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    background-color: rgb(253, 243, 243);
+    width: 100vh;
+    height: 100vh;
+}
+.container{
+    background-color: white;
+    justify-content: center;
+    text-align: center;
+    /* width: 80vh;
+    height: 80vh%; */
+    
+}
+.first{
+    display: flex;
+    align-items: center;
+    gap: 1000px;
+    background-color: orangered;
+    color: white;
+    font-size: 40px;
+    padding: 20px 50px 20px 50px;
+    position: sticky;
+    top: 0;
+}
+.write{
+    text-align: center;
+    font-size: 30px;
+    margin: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Teraa{
+    font-size: 20px;
+}
+.Main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    border: 10px;
+}
+.left{
+    background-color: rgb(248, 247, 247);
+    width: 500px;
+    height: 900px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    
+}
+.right{
+background-color: rgb(248, 247, 247);
+width: 500px;
+height: 900px;
+border-radius: 20px;
+margin-bottom: 50px;
+}
+.P1{
+    font-size: 20px;
+    text-align: left;
+     margin-top: 20px;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     margin-left: 10px;
+}
+.P2{
+    background-color: orangered;
+    width: 250px;
+    color: white;
+    height: 20px;
+    padding: 5px 5px 5px 5px ;
+    margin-top: 15px;
+    margin-left: 15px;
+
+}
+.gymhouse{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    gap: 90px;
+    padding: 10px 20px 10px 20px;
+    margin-top: 60px;
+}
+.Img{
+    display: flex;
+    margin-top: 60px;
+    padding: 10px 20px 10px 20px;
+    gap: 80px; 
+    
+}
+ a{
+    color: white;
+    background-color: orangered;
+    border-radius: 30px;
+    border: none;
+    width: 160px;
+    height: 80px;
+    font-size: 20px;
+    margin-top: 30px;
+}
+
+

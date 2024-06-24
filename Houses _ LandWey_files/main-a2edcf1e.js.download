@@ -1,0 +1,19 @@
+/*!
+ * 
+ * landwey
+ * 
+ * @author 
+ * @version 0.1.0
+ * @link UNLICENSED
+ * @license UNLICENSED
+ * 
+ * Copyright (c) 2019 
+ * 
+ * This software is released under the UNLICENSED License
+ * https://opensource.org/licenses/UNLICENSED
+ * 
+ * Compiled with the help of https://wpack.io
+ * A zero setup Webpack Bundler Script for WordPress
+ */
+(window.wpackiolandweyweb_basicJsonp=window.wpackiolandweyweb_basicJsonp||[]).push([[0],[function(e,s,t){t(1),t(3),e.exports=t(2)},function(e,s,t){"use strict";t.p=window["__wpackIo".concat("landwey").concat("dist")]},function(e,s,t){},function(e,s,t){"use strict";t.r(s);React.createElement;jQuery(document).ready(function(){var e=jQuery(document),s=jQuery(".faq-search-input.form-control");if(s.length>0&&(console.log("found"),s.on("keyup",function(){var e=s.val(),t=new RegExp(e,"i");jQuery(".pp-accordion .pp-accordion-item").each(function(s,o){var a=jQuery(o);if(null===e||0===e.trim().length)a.removeClass("hide");else{var n=a.text();t.test(n)?a.removeClass("hide"):a.addClass("hide")}})})),window.landwey_global){var t='<img src="'+window.landwey_global.profile_image+'" class="user-profile-image" style="display: none"/>',o='<span class="user-profile-name"><span>'+window.landwey_global.profile_name+"</span>"+t+" <i class='fa fa-cog'></i></span>";jQuery(".user-log-out>a").html(o),jQuery(".user-log-out").addClass("image-added")}jQuery(".user-log-ing").append("<i class='fa fa-user'></i>"),jQuery("#home-testimonial .esg-filters.esg-singlefilters.esg-navbutton-solo-left .esg-navigationbutton").append("<img src='/wp-content/themes/landwey/images/next-left.png'/>"),jQuery("#home-testimonial .esg-filters.esg-singlefilters.esg-navbutton-solo-right .esg-navigationbutton").append("<img src='/wp-content/themes/landwey/images/next-right.png'/>"),jQuery(".sxc-follow-button a[title=Facebook] img").attr("src","/wp-content/themes/landwey/images/social-icons/facebook.svg"),jQuery(".sxc-follow-button a[title=Twitter] img").attr("src","/wp-content/themes/landwey/images/social-icons/twitter.svg"),jQuery(".sxc-follow-button a[title=Instagram] img").attr("src","/wp-content/themes/landwey/images/social-icons/instagram.svg"),jQuery(".sxc-follow-button a[title=YouTube] img").attr("src","/wp-content/themes/landwey/images/social-icons/youtube.svg"),setTimeout(function(){jQuery(".sxc-follow-buttons").addClass("force-show"),jQuery(".fl-offcanvas-close .fas.fa-times").removeClass("fas").addClass("fa");var e=jQuery(".wptwa-container");if(e.length>0){jQuery("<div class='contact-telephone-direct'><a href='tel:0700 0526 3939'><img src='/wp-content/themes/landwey/images/social-icons/phone.svg'/></a> </div> ").insertBefore(e)}},3e3),e.scroll(function(){e.scrollTop()>=50?jQuery("body").addClass("fixed-header-offset"):jQuery("body").removeClass("fixed-header-offset")})})}],[[0,1]]]);
+//# sourceMappingURL=main-a2edcf1e.js.map

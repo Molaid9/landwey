@@ -1,0 +1,251 @@
+/* xs - SMARTPHONE PORTRAIT STYLES */ 
+/* Button */
+.my-gallery-class .invest-property-item:nth-child(1) .btn-sm:nth-child(2){
+	visibility:hidden;
+}
+
+.my-gallery-class .invest-property-item:nth-child(2) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+
+.my-gallery-class .invest-property-item:nth-child(4) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+
+.my-gallery-class .invest-property-item:nth-child(3) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(6) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(5) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(7) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(7) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(8) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(10) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(11) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(12) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(9) .btn-sm:nth-child(2){
+	visibility:hidden;
+	
+}
+
+.my-gallery-class .invest-property-item:nth-child(13) .btn-sm:nth-child(2){
+	visibility:hidden;
+}
+
+.my-gallery-class .invest-property-item:nth-child(15) .btn-sm:nth-child(2){
+	visibility:hidden;
+}
+.my-gallery-class .invest-property-item:nth-child(14) .btn-sm:nth-child(2){
+	visibility:hidden;
+}
+
+/* lg - TABLET LANDSCAPE STYLES */ 
+@media (min-width: 992px) {
+  /* Button */
+  .my-gallery-class .invest-property-item:nth-child(1) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(2) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  
+  .my-gallery-class .invest-property-item:nth-child(4) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  
+  .my-gallery-class .invest-property-item:nth-child(3) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(6) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(5) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(7) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(7) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(8) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(10) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(11) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(12) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(9) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(13) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(15) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  }
+  .my-gallery-class .invest-property-item:nth-child(14) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  }
+}
+
+/* xl - DESKTOP STYLES */ 
+@media (min-width: 1200px) {
+  /* Link */
+  .contact-telephone-direct a{
+  	display:none;
+  }
+  
+  /* Link */
+  .fl-node-5e9764136f9bf .fl-rich-text a{
+  	background-image:none;
+  }
+  
+  .download-box a{
+  	height:57px;
+  	border-top-left-radius:20px;
+  	border-top-right-radius:20px;
+  	border-bottom-left-radius:20px;
+  	border-bottom-right-radius:20px;
+  	border-style:none;
+  	border-color:#fa6400;
+  	background-color:#fa6400;
+  	background-image:linear-gradient(to bottom, #fa6400 0%, #fa6400 33%, FA6400 100%);
+  }
+  
+  /* Small Tag */
+  .download-box .download-button small{
+  	visibility:hidden;
+  }
+  
+  /* Link */
+  .fl-node-5e9764136f9c3 .fl-rich-text a{
+  	background-image:none;
+  }
+  
+  div.investment-price{
+  	display: none;
+  }
+  
+  
+  
+  /* Button */
+  .my-gallery-class .invest-property-item:nth-child(1) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  }
+}
+
+/* RETINA DISPLAY STYLES */ 
+@media (min-device-pixel-ratio: 1.5) {
+  /* Button */
+  .my-gallery-class .invest-property-item:nth-child(1) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(2) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  
+  .my-gallery-class .invest-property-item:nth-child(4) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  
+  .my-gallery-class .invest-property-item:nth-child(3) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(6) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(5) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(7) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+  
+  .my-gallery-class .invest-property-item:nth-child(7) .btn-sm:nth-child(2){
+  	visibility:hidden;
+  	
+  }
+}
+
